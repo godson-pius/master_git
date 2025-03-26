@@ -6,6 +6,7 @@ const options =  {
     addAccount: true,
     memories: [],
     comments: [],
+    createAddedaccount: false,
 }
 
 console.log(options)
