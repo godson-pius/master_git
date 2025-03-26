@@ -9,4 +9,9 @@ const options =  {
     createAddedaccount: false,
 }
 
+const subscribe = () => {
+    options.subscribe = true;
+    console.log('Subscribed to system');
+}
+
 console.log(options)
