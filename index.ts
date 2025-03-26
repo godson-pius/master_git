@@ -1,0 +1,1 @@
+const fullName = "Johnson" as string;
