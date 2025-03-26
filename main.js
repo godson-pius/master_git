@@ -5,7 +5,8 @@ const options =  {
     removeAccount: false,
     addAccount: true,
     memories: [
-        "hello"
+        "hello",
+        "Godson I am tired"
     ],
     comments: [],
     createAddedaccount: false,
