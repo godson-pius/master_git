@@ -24,4 +24,11 @@ const deleteAccount = () => {
     console.log('Account deleted');
 }
 
+const removeAccount = () => {
+    const conf = confirm('Are you sure you want to remove account?');
+    conf && (options.removeAccount = true)
+    console.log('Account removed');
+}
+
+
 console.log(options)
