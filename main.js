@@ -6,7 +6,8 @@ const options =  {
     addAccount: true,
     memories: [
         "hello",
-        "Godson I am tired"
+        "Godson I am tired",
+        "I am not tired"
     ],
     comments: [],
     createAddedaccount: false,
