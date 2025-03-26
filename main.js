@@ -4,6 +4,7 @@ const options =  {
     createAccount: false,
     removeAccount: false,
     addAccount: true,
+    createAddedaccount: false,
 }
 
 console.log(options)
