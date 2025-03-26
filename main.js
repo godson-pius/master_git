@@ -7,7 +7,7 @@ const options =  {
     memories: [
         "hello",
         "Godson I am tired",
-        "I am not tired",
+        "I am not tired"
     ],
     comments: [],
     createAddedaccount: false,
