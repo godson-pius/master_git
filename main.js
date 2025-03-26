@@ -4,9 +4,12 @@ const options =  {
     createAccount: false,
     removeAccount: false,
     addAccount: true,
-    memories: [],
+    memories: [
+        "hello"
+    ],
     comments: [],
     createAddedaccount: false,
+
 }
 
 const subscribe = () => {
