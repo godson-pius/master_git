@@ -4,6 +4,8 @@ const options =  {
     createAccount: false,
     removeAccount: false,
     addAccount: true,
+    memories: [],
+    comments: [],
     createAddedaccount: false,
 }
 
